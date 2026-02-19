@@ -88,4 +88,10 @@ For a production environment, this should be connected to a backend (Node.js/Pyt
 
 ## 📄 License
 
-MIT License. Free to use and modify.
+**Proprietary License - All Rights Reserved**
+
+Copyright (c) 2026 Klaasvaakie/Wimpie van Loggereneberg
+
+This software is proprietary and confidential. Unauthorized copying, distribution, modification, or use of this software is strictly prohibited without explicit written permission from Klaasvaakie/Wimpie van Loggereneberg.
+
+For licensing inquiries, please contact the owner.
